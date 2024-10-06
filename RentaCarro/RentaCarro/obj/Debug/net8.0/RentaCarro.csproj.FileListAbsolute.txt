@@ -1,0 +1,14 @@
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\bin\Debug\net8.0\RentaCarro.exe
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\bin\Debug\net8.0\RentaCarro.deps.json
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\bin\Debug\net8.0\RentaCarro.runtimeconfig.json
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\bin\Debug\net8.0\RentaCarro.dll
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\bin\Debug\net8.0\RentaCarro.pdb
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.AssemblyInfoInputs.cache
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.AssemblyInfo.cs
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.csproj.CoreCompileInputs.cache
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.dll
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\refint\RentaCarro.dll
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.pdb
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\RentaCarro.genruntimeconfig.cache
+C:\Users\bioma\OneDrive\Documentos\Proyecto\RentaCarro\RentaCarro\obj\Debug\net8.0\ref\RentaCarro.dll
