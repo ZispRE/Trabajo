@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\",
+  "WorkspaceRootPath": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\documentos\\proyecto\\rentacarro\\rentacarro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\escritorio\\proyecto\\rentacarro\\rentacarro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|solutionrelative:rentacarro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\documentos\\proyecto\\rentacarro\\rentacarro\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\escritorio\\proyecto\\rentacarro\\rentacarro\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|solutionrelative:rentacarro\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\documentos\\proyecto\\rentacarro\\rentacarro\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|c:\\users\\bioma\\onedrive\\escritorio\\proyecto\\rentacarro\\rentacarro\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4A91A4-1A75-41FA-B9F3-FC7158C425C9}|RentaCarro\\RentaCarro.csproj|solutionrelative:rentacarro\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Class2.cs",
+              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Class2.cs",
               "RelativeDocumentMoniker": "RentaCarro\\Class2.cs",
-              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Class2.cs",
+              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Class2.cs",
               "RelativeToolTip": "RentaCarro\\Class2.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T00:53:50.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T00:53:50.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Class1.cs",
               "RelativeDocumentMoniker": "RentaCarro\\Class1.cs",
-              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Class1.cs",
+              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Class1.cs",
               "RelativeToolTip": "RentaCarro\\Class1.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T00:20:19.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T00:20:19.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Program.cs",
               "RelativeDocumentMoniker": "RentaCarro\\Program.cs",
-              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Documentos\\Proyecto\\RentaCarro\\RentaCarro\\Program.cs",
+              "ToolTip": "C:\\Users\\bioma\\OneDrive\\Escritorio\\Proyecto\\RentaCarro\\RentaCarro\\Program.cs",
               "RelativeToolTip": "RentaCarro\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T00:04:39.718Z",
               "EditorCaption": ""
